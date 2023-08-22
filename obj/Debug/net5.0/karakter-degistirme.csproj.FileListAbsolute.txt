@@ -1,0 +1,15 @@
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-degistirme\bin\Debug\net5.0\karakter-degistirme.exe
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-degistirme\bin\Debug\net5.0\karakter-degistirme.deps.json
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-degistirme\bin\Debug\net5.0\karakter-degistirme.runtimeconfig.json
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-degistirme\bin\Debug\net5.0\karakter-degistirme.runtimeconfig.dev.json
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-degistirme\bin\Debug\net5.0\karakter-degistirme.dll
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-degistirme\bin\Debug\net5.0\karakter-degistirme.pdb
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-degistirme\obj\Debug\net5.0\karakter-degistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-degistirme\obj\Debug\net5.0\karakter-degistirme.AssemblyInfoInputs.cache
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-degistirme\obj\Debug\net5.0\karakter-degistirme.AssemblyInfo.cs
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-degistirme\obj\Debug\net5.0\karakter-degistirme.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-degistirme\obj\Debug\net5.0\karakter-degistirme.dll
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-degistirme\obj\Debug\net5.0\refint\karakter-degistirme.dll
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-degistirme\obj\Debug\net5.0\karakter-degistirme.pdb
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-degistirme\obj\Debug\net5.0\karakter-degistirme.genruntimeconfig.cache
+C:\Users\yusuf.ceylan\Desktop\Pratikler\karakter-degistirme\obj\Debug\net5.0\ref\karakter-degistirme.dll
